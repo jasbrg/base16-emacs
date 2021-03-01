@@ -779,7 +779,7 @@ return the actual color value.  Otherwise return the value unchanged."
      (org-agenda-date                              :foreground base0D :underline nil)
      (org-agenda-done                              :foreground base0B)
      (org-agenda-dimmed-todo-face                  :foreground base04)
-     (org-block                                    :foreground base09)
+     (org-block                                    :foreground base09 :background base01)
      (org-code                                     :foreground base0A)
      (org-column                                   :background base01)
      (org-column-title                             :weight bold :underline t :inherit org-column)
